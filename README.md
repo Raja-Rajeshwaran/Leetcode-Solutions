@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 <!---LeetCode Topics End-->
