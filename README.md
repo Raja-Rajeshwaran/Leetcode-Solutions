@@ -14,5 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
