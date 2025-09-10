@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Linked List
 |  |
