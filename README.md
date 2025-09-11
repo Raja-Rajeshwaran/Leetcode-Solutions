@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [2887-sort-vowels-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
