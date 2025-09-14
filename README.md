@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
