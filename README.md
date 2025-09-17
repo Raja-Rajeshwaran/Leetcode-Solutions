@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
