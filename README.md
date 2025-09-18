@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 ## Math
 |  |
 | ------- |
@@ -151,15 +152,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 ## Trie
 |  |
 | ------- |
