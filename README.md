@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
@@ -217,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
