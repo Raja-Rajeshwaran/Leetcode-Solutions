@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
