@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
 | [3797-design-spreadsheet](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Merge Sort
 |  |
 | ------- |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
