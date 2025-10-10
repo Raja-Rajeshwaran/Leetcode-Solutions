@@ -246,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
