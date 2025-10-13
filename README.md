@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3678-design-task-manager) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
 |  |
