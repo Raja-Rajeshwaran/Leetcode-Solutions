@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3797-design-spreadsheet](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Hash Table
