@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
