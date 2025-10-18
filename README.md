@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3827-implement-router](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
