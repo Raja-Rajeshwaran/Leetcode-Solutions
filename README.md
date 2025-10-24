@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0152-maximum-product-subarray](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
