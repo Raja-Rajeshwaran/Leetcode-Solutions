@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1006-vowel-spellchecker](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2058-concatenation-of-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [3336-water-bottles-ii](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Raja-Rajeshwaran/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
